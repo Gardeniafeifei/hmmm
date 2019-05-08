@@ -7,7 +7,7 @@
           plain 
           size="small"
           @click="showAddDialog()"
-        >新建目录</el-button>
+        >1111111111111111111新建目录</el-button>
         <el-button type="info" plain size="small" :to="{ path: '/SubjectsList' }">返回学科</el-button>
         <el-form :inline="true" :model="formInline" class="demo-form-inline" style="margin-top: 10px">
           <el-form-item label="目录名称">
